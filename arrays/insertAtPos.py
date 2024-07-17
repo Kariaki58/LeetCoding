@@ -14,8 +14,8 @@ if __name__=="__main__":
 
     print("\n")
 
-    x = 10;
-    pos = 2;
+    x = 10
+    pos = 2
 
     # Function call
     insertElement(arr, n, x, pos);
